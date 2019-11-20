@@ -18,8 +18,8 @@ class MathsTest {
 
     @Test
     void subtraction() {
-        int sum= Maths.subtraction(2,3) ;
-        assertEquals(-1, sum);
+        int result= Maths.subtraction(2,3) ;
+        assertEquals(-1, result);
     }
 
 
